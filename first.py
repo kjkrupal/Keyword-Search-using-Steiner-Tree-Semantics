@@ -1,4 +1,4 @@
-print("Priyank")
+print("Priyanka")
 print("Priyank")
 print("Priyank")
 print("Priyank")
