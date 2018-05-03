@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+
+<dblp>
+
+  <article mdate="2017-05-28" key="journals/acta/Saxena96">
+    <author>Sanjeev Saxena</author>
+    <title>Parallel Integer Sorting and Simulation Amongst CRCW Models.</title>
+    <pages>607-619</pages>
+    <year>1996</year>
+    <volume>33</volume>
+    <journal>Acta Inf.</journal>
+    <number>7</number>
+    <url>db/journals/acta/acta33.html#Saxena96</url>
+    <ee>https://doi.org/10.1007/BF03036466</ee>
+  </article>
+
+  <phdthesis mdate="2016-08-22" key="phd/ethos/Borowiecki11">
+    <author>Konrad Borowiecki</author>
+    <title>Addressing the reactiveness problem in sensor networks using rich task representation.</title>
+    <year>2011</year>
+    <school>Cardiff University, UK</school>
+    <ee>http://orca.cf.ac.uk/28931/</ee>
+    <ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.567237</ee>
+    <note type="source">British Library, EThOS</note>
+  </phdthesis>
+
+  <mastersthesis mdate="2017-12-26" key="phd/Schulte92">
+    <author>Christian Schulte 0001</author>
+    <title>Entwurf und Implementierung eines &uuml;bersetzenden Systems f&uuml;r das intuitionistische logische Programmieren auf der Warren Abstract Machine.</title>
+    <year>1991</year>
+    <school>Universit&auml;t Karlsruhe, Institut f&uuml;r Logik, Komplexit&auml;t und Deduktionssysteme</school>
+  </mastersthesis>
+
+  <inproceedings mdate="2017-05-19" key="conf/icassp/SayinVK14">
+    <author>Muhammed O. Sayin</author>
+    <author>Nuri Denizcan Vanli</author>
+    <author>Suleyman Serdar Kozat</author>
+    <title>Improved convergence performance of adaptive algorithms through logarithmic cost.</title>
+    <pages>4513-4517</pages>
+    <year>2014</year>
+    <booktitle>ICASSP</booktitle>
+    <ee>https://doi.org/10.1109/ICASSP.2014.6854456</ee>
+    <crossref>conf/icassp/2014</crossref>
+    <url>db/conf/icassp/icassp2014.html#SayinVK14</url>
+  </inproceedings>
+
+</dblp>
