@@ -15,6 +15,18 @@
     <ee>https://doi.org/10.1007/BF03036466</ee>
   </article>
 
+  <article mdate="2017-05-28" key="journals/acta/krupal96">
+    <author>Krupal Jadhav</author>
+    <title>Parallel Integer Sorting and Simulation Amongst CRCW Models.</title>
+    <pages>607-619</pages>
+    <year>1996</year>
+    <volume>33</volume>
+    <journal>Acta Inf.</journal>
+    <number>7</number>
+    <url>db/journals/acta/acta33.html#Saxena96</url>
+    <ee>https://doi.org/10.1007/BF03036466</ee>
+  </article>
+
   <phdthesis mdate="2016-08-22" key="phd/ethos/Borowiecki11">
     <author>Konrad Borowiecki</author>
     <title>Addressing the reactiveness problem in sensor networks using rich task representation.</title>
