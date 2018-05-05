@@ -16,7 +16,12 @@
   </article>
 
   <article mdate="2017-05-28" key="journals/acta/krupal96">
-    <author>Krupal Jadhav</author>
+    <author>Krupal Jadhav
+      <cast>Deepesh
+        <i>lauda
+        </i>
+      </cast>
+    </author>
     <title>Parallel Integer Sorting and Simulation Amongst CRCW Models.</title>
     <pages>607-619</pages>
     <year>1996</year>
